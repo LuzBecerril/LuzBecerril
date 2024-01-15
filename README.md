@@ -52,3 +52,6 @@ I am a passionate Junior Full Stack Java Developer :computer: and a graduate in 
     </tr>
   </tbody>
 </table>
+[![Luz Becerril's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuzBecerril)](https://github.com/LuzBecerril/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuzBecerril&layout=compact)](https://github.com/LuzBecerril/github-read
